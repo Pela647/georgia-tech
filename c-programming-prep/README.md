@@ -1,4 +1,6 @@
-- Basics reference tutorial: https://www.youtube.com/watch?v=87SH2Cn0s9A
+- [Basics reference tutorial](https://www.youtube.com/watch?v=87SH2Cn0s9A)
+- C memory management course from [boot.dev](https://www.boot.dev), video guide [link](https://www.youtube.com/watch?v=rJrd2QMVbGM).
+- 
 
 ### Notes
 - Use `switch-case` statement instead of many `if-else` statements.
